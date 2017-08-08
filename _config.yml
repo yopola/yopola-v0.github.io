@@ -16,8 +16,7 @@
 title: Yopolazi
 email: info@yopolazi.com
 description: > # this means to ignore newlines until "baseurl:"
-  Yopolazi is the 1st artisan Chili oil from Northern China in US market. Handcrafted using a 400 year-old process. 100% high quality natural ingredients. Zero Chemicals. 
-  Combining different aroma from 23 spices, Yopolazi can turn your home-cooked food into 5 star restaurant tastes instantly. 
+  1st artisan chili oil from Northern China in US market. Handcrafted using a 400 year-old process. 100% natural ingredients. Zero Chemicals. 
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
