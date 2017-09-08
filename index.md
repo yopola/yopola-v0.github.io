@@ -5,6 +5,7 @@
 layout: home
 ---
 
+# 2017 all rights reserved by Tailai, LLC. Hayward, CA 94541
 # Yopolazi - 1st Chili Oil from Northern China
 ## 23 Spices Sealed in 1 Drop
 ## Made from a four hundred year-old, chemical free, artisanal process 
