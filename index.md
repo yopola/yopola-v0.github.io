@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Yopolazi - 2017 All rights reservide by Tailai, LLC, Hayward, CA 94541
+# Yopolazi - 2017 All rights reserved by Tailai, LLC, Hayward, CA 94541
 ## 23 Spices Sealed in 1 Drop
 ## Made from a four hundred year-old, chemical free, artisanal process 
 
